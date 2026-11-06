@@ -26,8 +26,7 @@ This project focuses on analyzing call center operations and performance using a
 
 * Total Calls
 * Answered Calls
-* Abandoned Calls
-* Average Speed of Answer
+* Happy calls
 * Average Call Duration
 * Customer Satisfaction Rating
 
